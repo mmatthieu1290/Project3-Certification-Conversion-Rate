@@ -1,7 +1,5 @@
 # Bloc_3: Conversion rate challenge.
 
-Files:
-
 Version_finale_projet3_Matthieu_Marechal.ipynb : code.
 
 conversion_data_train.csv: labeled dataset.
