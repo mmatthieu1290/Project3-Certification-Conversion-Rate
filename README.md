@@ -25,6 +25,9 @@
 ## Table of Contents
 
 - [Overview](#overview)
+- [Caracteristics of the Dataset](#Caracteristics-of-the-Dataset)
+- [Methodology and conclusions](#Methodology-and-conclusions)
+- [Files](#Files)
 - [Getting Started](#getting-started)
     - [Prerequisites](#prerequisites)
     - [Installation](#installation)
@@ -60,7 +63,7 @@ This project aims to simplify the creation of predictive models for conversion l
 
 ---
 
-## Methodology and conclusion
+## Methodology and conclusions
 
 **Considered models:** Logistic Regression, K-Nearest Neighbors, Xgboost.
 
